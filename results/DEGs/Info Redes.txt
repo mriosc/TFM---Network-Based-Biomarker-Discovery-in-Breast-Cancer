@@ -1,0 +1,34 @@
+Info Redes
+
+06 Metastasic
+
+Nodes 2286
+Edges 5458
+GNC 0,072969
+
+07 Metastasic
+
+Nodes 846
+Edges 791
+GNC 0,027152
+
+
+06 Primary
+
+Nodes 3760
+Edges 16344
+GNC 0,287061
+
+07 Primary
+
+Nodes 1764
+Edges 3020
+GNC 0,128413
+
+
+En la condición Metastásica, la coherencia biológica es casi 3 veces mayor en 0.6 que en 0.7.
+
+Pérdida de información: Al pasar de 0.6 a 0.7 en la red Metastásica, pierdes el 63% de los nodos y el 85% de las interacciones.
+
+Tras realizar un análisis de sensibilidad con umbrales de correlación de 0.6 y 0.7, se seleccionó el umbral de 0.6 para la identificación de biomarcadores. Esta decisión se fundamenta en que las redes de 0.6 mostraron una coherencia biológica (GNC) significativamente mayor frente a la base de datos BioGRID, manteniendo una densidad de interacciones necesaria para capturar la complejidad del sistema sin comprometer la validez de las asociaciones detectadas
+
