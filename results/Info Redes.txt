@@ -1,0 +1,28 @@
+Info Redes
+
+06 Metastasic
+
+Nodes 2286
+Edges 5458
+GNC 0,072969
+
+07 Metastasic
+
+Nodes 846
+Edges 791
+GNC 0,027152
+
+
+06 Primary
+
+Nodes 3760
+Edges 16344
+GNC 0,287061
+
+07 Primary
+
+Nodes 1764
+Edges 3020
+GNC 0,128413
+
+
