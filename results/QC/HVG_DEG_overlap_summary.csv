@@ -1,0 +1,4 @@
+"DEG_threshold","Total_DEGs","DEGs_in_HVGs","Percentage"
+"FC>0.5",22967,2311,10.1
+"FC>1.0",16530,2311,14
+"FC>2.0",5806,1231,21.2
