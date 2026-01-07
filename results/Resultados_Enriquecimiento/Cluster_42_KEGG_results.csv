@@ -1,0 +1,4 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+NA,NA,"hsa04382","Cornified envelope formation","14/22","217/9521",1.82770763366409e-18,3.83818603069459e-17,3.46302499010038e-17,"3852/3889/3887/1830/3868/3872/3854/6273/25984/3866/3892/11240/3855/6275",14
+"Human Diseases","Infectious disease: bacterial","hsa05150","Staphylococcus aureus infection","4/22","102/9521",7.83059512452814e-05,0.000822212488075454,0.000741845853902665,"3868/3872/25984/3866",4
+"Organismal Systems","Endocrine system","hsa04915","Estrogen signaling pathway","4/22","139/9521",0.000259415623359598,0.00181590936351719,0.00163841446332378,"3868/3872/25984/3866",4

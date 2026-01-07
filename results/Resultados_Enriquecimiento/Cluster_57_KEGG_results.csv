@@ -1,0 +1,2 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"Metabolism","Glycan biosynthesis and metabolism","hsa00534","Glycosaminoglycan biosynthesis - heparan sulfate / heparin","1/2","24/9521",0.00503539720688184,0.0151061916206455,0.0053004181125072,"222537",1

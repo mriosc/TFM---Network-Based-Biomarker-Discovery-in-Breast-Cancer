@@ -1,0 +1,3 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"Human Diseases","Cancer: overview","hsa05231","Choline metabolism in cancer","1/2","99/9521",0.0206890959303583,0.0289869849840997,NA,"80736",1
+"Organismal Systems","Endocrine system","hsa04915","Estrogen signaling pathway","1/2","139/9521",0.0289869849840997,0.0289869849840997,NA,"7031",1

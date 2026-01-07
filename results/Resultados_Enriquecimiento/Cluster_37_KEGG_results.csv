@@ -1,0 +1,5 @@
+"category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"Human Diseases","Immune disease","hsa05321","Inflammatory bowel disease","1/1","66/9521",0.00693204495326116,0.0120785631761369,NA,"2625",1
+"Organismal Systems","Immune system","hsa04658","Th1 and Th2 cell differentiation","1/1","93/9521",0.00976788152505004,0.0120785631761369,NA,"2625",1
+"Organismal Systems","Immune system","hsa04659","Th17 cell differentiation","1/1","109/9521",0.011448377271295,0.0120785631761369,NA,"2625",1
+"Organismal Systems","Endocrine system","hsa04928","Parathyroid hormone synthesis, secretion and action","1/1","115/9521",0.0120785631761369,0.0120785631761369,NA,"2625",1

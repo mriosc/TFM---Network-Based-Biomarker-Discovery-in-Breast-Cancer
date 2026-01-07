@@ -1,0 +1,2 @@
+"ONTOLOGY","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"BP","GO:0035881","amacrine cell differentiation","3/104","12/18870",3.45093250536629e-05,0.0338536478776433,0.0338536478776433,"NEUROD1/BARHL2/NEUROD4",3
